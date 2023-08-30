@@ -1,5 +1,2 @@
 #!/bin/bash
-
-echo "working directory"
- 
-pwd
+my work lol
