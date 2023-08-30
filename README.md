@@ -1,1 +1,2 @@
-My first readme q
+#!/bin/bash 
+pwd
