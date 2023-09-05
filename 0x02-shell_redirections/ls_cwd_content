@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 mrnobody mrnobody 4096 Sep  5 03:35 .
+drwxrwxr-x 6 mrnobody mrnobody 4096 Sep  5 01:16 ..
+-rwxrw-r-- 1 mrnobody mrnobody   32 Sep  5 01:27 0-hello_world
+-rwxrw-r-- 1 mrnobody mrnobody   28 Sep  5 01:45 1-confused_smiley
+-rwxrw-r-- 1 mrnobody mrnobody   28 Sep  5 01:52 2-hellofile
+-rwxrw-r-- 1 mrnobody mrnobody   39 Sep  5 01:59 3-twofiles
+-rwxrw-r-- 1 mrnobody mrnobody   29 Sep  5 02:09 4-lastlines
+-rwxrw-r-- 1 mrnobody mrnobody   29 Sep  5 02:13 5-firstlines
+-rwxrw-r-- 1 mrnobody mrnobody   40 Sep  5 02:28 6-third_line
+-rwxrw-r-- 1 mrnobody mrnobody   98 Sep  5 03:27 7-file
+-rwxrw-r-- 1 mrnobody mrnobody   36 Sep  5 03:34 8-cwd_state
+-rw-rw-r-- 1 mrnobody mrnobody  785 Sep  5 02:23 iacta
+-rw-rw-r-- 1 mrnobody mrnobody    0 Sep  5 03:35 ls_cwd_content
+-rw-rw-r-- 1 mrnobody mrnobody   42 Sep  5 01:17 README.md
